@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_otpverification_verificationdone.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_otpverification_verificationdone.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable_launch_screen.png.flat",
+        "source": "com.profitai.app-main-37:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_onbordingimg_onbording1.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_onbordingimg_onbording1.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_closeios.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_onbordingimg_onbording3.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_onbordingimg_onbording3.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_business_information_business_information.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_business_information_business_information.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/layout_launch_screen.xml.flat",
+        "source": "com.profitai.app-main-37:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.profitai.app-main-37:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_onbordingimg_onbording2.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_onbordingimg_onbording2.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_otpverification_otpverification.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_otpverification_otpverification.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_commonimg_usernotfound.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_commonimg_usernotfound.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.profitai.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_node_modules_reactnativecountrypickermodal_lib_assets_images_close.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/node_modules_reactnativecountrypickermodal_lib_assets_images_close.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_otpverification_otpverificationcode.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_otpverification_otpverificationcode.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-mdpi_src_assets_images_gstimage_gstimg2x.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-mdpi/src_assets_images_gstimage_gstimg2x.png"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/xml_network_security_config.xml.flat",
+        "source": "com.profitai.app-main-37:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.profitai.app-merged_res-36:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.profitai.app-res-30:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    }
+]

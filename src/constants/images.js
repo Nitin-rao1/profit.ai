@@ -1,0 +1,22 @@
+export const Images = {
+    // signin1: require('../assets/img/signIn1.png'),
+    // logo: require('../assets/img/logo1.png'),
+    otpVerifications: require('../assets/images/Otpverification/Otpverification.png'),
+    otpVerificationsCode: require('../assets/images/Otpverification/OtpverificationCode.png'),
+    verificationDone: require('../assets/images/Otpverification/verificationdone.png'),
+    Business_Information: require('../assets/images/business_information/business_information.png'),
+    Gst_Screen: require('../assets/images/Gstimage/Gstimg2x.png'),
+    User_Notfound: require('../assets/images/CommonImg/usernotfound.png'),
+    // userDoc: require('../assets/img/userDoc.png'),
+    // dummyDoc: require('../assets/img/doc1.jpg'),
+    // default: require('../assets/img/default.png'),
+    // notification: require('../assets/img/notification.png'),
+    // whereGo: require('../assets/img/whereGo.png'),
+    // logo1: require('../assets/img/lo.png'),
+    // inRangeLive: require('../assets/img/inRangeLive.png'),
+    // documentVerify: require('../assets/img/documentVerify.png'),
+    // emergencyCall: require('../assets/img/emergency.png'),
+    // dummyPic:
+    //   'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png',
+    // dummyPic:require('../assets/img/dummy.png'),
+  };
